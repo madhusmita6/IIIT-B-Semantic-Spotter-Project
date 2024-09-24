@@ -20,7 +20,7 @@
 - openAI API key
 - Jupiter Notebook
 
-##howtorun
+## howtorun
  - Step 1: Run all the cell in install required library and depended code.
  - step 2: If using google drive mount google drive and change the path.
  - step 3: Read the openAI key from the user data or set the path.
